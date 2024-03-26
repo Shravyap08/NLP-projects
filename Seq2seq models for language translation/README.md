@@ -1,4 +1,4 @@
-#Seq2seq models for language translation
+# Seq2seq models for language translation
 
 ## Project Overview
 This project aims to build and compare machine translation models using Seq2Seq and Transformer architectures. With a focus on translating English to German, the project evaluates different model configurations and attention mechanisms to improve the accuracy and quality of the translations.
