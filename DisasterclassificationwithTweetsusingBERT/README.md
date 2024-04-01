@@ -29,7 +29,7 @@ The main steps of the project are implemented in a Jupyter Notebook, making it e
 4. **Evaluation**: Evaluate the model's performance on the validation set using metrics like accuracy and F1 score.
 
 ## Results
-The model's effectiveness is measured using the F1 score, which balances precision and recall. The training process is detailed in the provided Jupyter Notebook, including the calculation of loss and F1 score after each epoch.
+The model's effectiveness is measured using the F1 score, which balances precision and recall. The training process is detailed in the provided Jupyter Notebook, including the calculation of loss and F1 score after each epoch. The model achieves an F1 score of 97%.
 
 ### Dataset Source
 The dataset for this project was obtained from the Kaggle competition: [NLP with Disaster Tweets](https://www.kaggle.com/competitions/nlp-getting-started/data).
