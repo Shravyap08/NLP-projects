@@ -1,4 +1,4 @@
-#AI data science teaching assistant
+# AI data science teaching assistant
 Large Language Models (LLMs) have captured the world's attention and imagination.
 
 Often referred to as "foundation models", much of their potential lies in their ability to be adapted to accomplish specialized tasks for a seemingly unlimited number of use cases. As the technology rapidly develops, there’s a massive opportunity to uncover the best methods and approaches for adapting LLMs to new and specialized use cases.
